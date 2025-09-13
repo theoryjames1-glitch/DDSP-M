@@ -1,6 +1,9 @@
 
 # 🌀 DifferentiableDSP Machine (DDSP-M)
 
+
+[![Video Title](https://img.youtube.com/vi/6vc9Mz2tfHM/0.jpg)](https://www.youtube.com/watch?v=6vc9Mz2tfHM)
+
 A **DDSP Machine** is a 6-tuple:
 
 $$
